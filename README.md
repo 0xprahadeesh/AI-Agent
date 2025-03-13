@@ -1,2 +1,12 @@
-# AI-Agent
-Python AI agents that solve real-time problems
+# RAG model using Google Gemini
+
+Model: Google Gemini
+Data: PDFS (from users)
+
+Installations
+
+pip install -r requirements.txt
+
+Usage
+
+streamlit run app.py
